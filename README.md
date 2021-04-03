@@ -1,6 +1,3 @@
-<!--
-**amritesh19/amritesh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋, I am Amritesh
 #### Sophomore at the National Institute of Technology, Agartala.
 I am interested in the application and development of technologies. I visualization of science through simulations excites me the most.
