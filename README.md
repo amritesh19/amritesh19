@@ -2,7 +2,13 @@
 #### Sophomore at the National Institute of Technology, Agartala.
 I am interested in the application and development of technologies. I visualization of science through simulations excites me the most.
 
-Skills: JS / HTML / CSS / JAVA
+Skills:
+- Java, C/C++, Python
+- JavaScript, HTML, CSS
+- Basic Android App Dev.
+- Git , Linux, REST API
+- Data Structures & Algorithm
+- Competitive Programming
 
 
 
