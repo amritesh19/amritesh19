@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Amritesh
 #### Sophomore at the National Institute of Technology, Agartala.
-I am interested in the application and development of technologies. I visualization of science through simulations excites me the most.
+I am interested in the application and development of technologies. Visualization of science through simulations excites me the most.
 
 Skills:
 - Java, C/C++, Python
