@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Amritesh
-#### Final year at the National Institute of Technology, Agartala.
-#### Former Intern@ MathWorks, Wolfram Summer School 2021
+- Final year at the National Institute of Technology, Agartala.  
+- Former Intern@ MathWorks, Wolfram Summer School 2021
+- Open Source contribution at MediaWki Foundation
+
 I am interested in the application and development of technologies. Visualization of science through simulations excites me the most.
 
 
