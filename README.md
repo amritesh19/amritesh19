@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Amritesh
-#### Sophomore at the National Institute of Technology, Agartala.
+#### Final year at the National Institute of Technology, Agartala.
+#### Former Intern@ MathWorks, Wolfram Summer School 2021
 I am interested in the application and development of technologies. Visualization of science through simulations excites me the most.
 
 
